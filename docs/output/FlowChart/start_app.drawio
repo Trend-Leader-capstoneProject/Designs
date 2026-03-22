@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="페이지-1" id="0JPTemXBSRfNUfXWLErw">
+    <mxGraphModel dx="595" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="450" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zjQ7cw6aFeRKjA8ZXOkG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" value="앱 시작" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zjQ7cw6aFeRKjA8ZXOkG-5" edge="1" parent="1" source="zjQ7cw6aFeRKjA8ZXOkG-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zjQ7cw6aFeRKjA8ZXOkG-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="140" as="sourcePoint" />
+            <mxPoint x="90" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjQ7cw6aFeRKjA8ZXOkG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;로그인 or 건너뛰기&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zjQ7cw6aFeRKjA8ZXOkG-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;홈 화면 (오늘 트렌드)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zjQ7cw6aFeRKjA8ZXOkG-9" edge="1" parent="1" source="zjQ7cw6aFeRKjA8ZXOkG-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zjQ7cw6aFeRKjA8ZXOkG-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="200" as="sourcePoint" />
+            <mxPoint x="280" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjQ7cw6aFeRKjA8ZXOkG-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font size=&quot;1&quot;&gt;홈 -&amp;gt; 마이페이지&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zjQ7cw6aFeRKjA8ZXOkG-11" edge="1" parent="1" source="zjQ7cw6aFeRKjA8ZXOkG-8" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zjQ7cw6aFeRKjA8ZXOkG-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="250" as="sourcePoint" />
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
