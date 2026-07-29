@@ -24,6 +24,9 @@
 - `user`는 `users`로 변경한다.
 - SQLAlchemy 클래스명은 단수형 PascalCase를 사용한다.
 - 예: `users` → `User`
+- 예외적으로 기존 ERD 및 API 문서와의 일관성을 위해
+  트렌드-카테고리 매핑 테이블은 `trend_category_map`을 사용한다.
+
 
 ### SD-002 기존 파일 처리
 
